@@ -1,0 +1,36 @@
+    a:link {
+      color: green;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: rgb(212, 255, 192);
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: rgb(47, 0, 255);
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    body {
+      background-color: powderblue;
+    }
+    h1 {
+      color: yellow;
+    }
+    h1 {
+      color: blueviolet;
+    }
+    p {
+      color: red;
+    }
